@@ -1,6 +1,3 @@
-# rewear--community-clothing-exchange
-Develop ReWear, a web-based platform that enables users to exchange unused clothing through direct swaps or a point-based redemption system. The goal is to promote sustainable fashion and reduce textile waste by encouraging users to reuse wearable garments instead of discarding them.
-
 # ReWear – Community Clothing Exchange 👕♻️
 
 **ReWear** is a web-based platform designed to promote sustainable fashion and reduce textile waste by enabling users to exchange unused clothing. Through direct swaps or a point-based redemption system, ReWear encourages a circular fashion economy where garments get a second life.
@@ -93,5 +90,3 @@ We welcome contributions! Here's how to get started:
 4. Commit your changes (`git commit -m 'Add some feature'`)
 5. Push to the branch (`git push origin feature-branch`)
 6. Open a pull request
-
----
